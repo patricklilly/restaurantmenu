@@ -2,12 +2,14 @@
 
 /* Use the 'Lato' font family at 18px throughout the body of the document, and cover the background with the 'map-bg.jpg' image. */
 nav {font-family: sans-serif; font-size: 10px;}
+body{
+    background-image: url(map-bg.jpg)
+}
 
 #main {width: 900px; 
     margin: 10px auto;
     font-family: Lato; 
     font-size: 18px;
-    background-image: url(map-bg.jpg);
 }
 /* Use the 'Supermercado One' font at 45px (colored #5d4037) for the restaurant name. */
 h1 {
