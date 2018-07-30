@@ -45,5 +45,5 @@ footer {
 
 /* draw a 2px thick black border around the starters and desserts sections of the menu */
 #starters, #desserts {
-    border: 2px thick black;
+    border: 2px black;
 }
